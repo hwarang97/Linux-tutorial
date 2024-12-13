@@ -15,3 +15,5 @@ Coperate world use Linux not Window or MacOS.
 3. CLI is strong to process repetitives tasks.
 4. Enhanced security.
 5. Carreer opertunity.
+6. Open code
+7. Customizing
