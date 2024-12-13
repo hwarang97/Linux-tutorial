@@ -6,3 +6,12 @@ There are as many OS as type of device.
 3. Mobile OS
 4. Embedded OS
 5. RealTime OS(RTOS)
+
+
+## Why do we learn Linux?
+Coperate world use Linux not Window or MacOS. 
+1. Typically in servers and cloud computing, linux is widely used.
+2. Linux is free.
+3. CLI is strong to process repetitives tasks.
+4. Enhanced security.
+5. Carreer opertunity.
