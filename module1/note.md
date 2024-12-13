@@ -17,3 +17,6 @@ Coperate world use Linux not Window or MacOS.
 5. Carreer opertunity.
 6. Open code
 7. Customizing
+
+
+## Why do we know difference between Window and Linux?
